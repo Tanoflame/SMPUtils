@@ -1,0 +1,29 @@
+name: SMPUtils
+main: me.tanoflame.smputils.SMPUtils
+version: 0.1
+author: Tanoflame
+commands:
+  spawn:
+    description: Sends player to their spawnpoint
+    usage: "Usage: /spawn"
+  worldlist:
+    description: Lists amount of active players in each world
+    usage: "Usage: /worldlist"
+  entitylist:
+    description: Lists amount of loaded entities in each world
+    usage: "Usage: /entitylist"
+  tpa:
+    description: Makes a request to teleport to specified player
+    usage: "Usage: /tpa <Player>"
+  tpaccept:
+    description: Accepts a teleport request
+    usage: "Usage: /tpaccept [Player]"
+  tpadeny:
+    description: Denies a teleport request
+    usage: "Usage: /tpadeny [Player]"
+  tpacancel:
+    description: Cancels the most recent teleport request
+    usage: "Usage: /tpacancel"
+  back:
+    description: Teleports back to last teleport location
+    usage: "Usage /back"
