@@ -1,6 +1,6 @@
 name: SMPUtils
 main: me.tanoflame.smputils.SMPUtils
-version: 0.1
+version: 0.1.0
 author: Tanoflame
 commands:
   spawn:
