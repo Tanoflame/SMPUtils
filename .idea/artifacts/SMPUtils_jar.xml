@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SMPUtils:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/SMPUtils_jar</output-path>
-    <root id="archive" name="SMPUtils.jar">
-      <element id="module-output" name="SMPUtils" />
-    </root>
-  </artifact>
-</component>
